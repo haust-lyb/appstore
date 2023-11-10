@@ -1,0 +1,20 @@
+name: Camunda
+tags:
+    - Tool # 工作流引擎
+title: Camunda Platform 7
+type: website
+description: Camunda Platform 7 是一个灵活的工作流程和流程自动化框架。其核心是在 Java 虚拟机内运行的原生 BPMN 2.0 流程引擎。它可以嵌入到任何 Java 应用程序和任何运行时容器中。它与 Java EE 6 集成，并且与 Spring 框架完美匹配。在流程引擎之上，您可以从一系列工具中进行选择，用于人工工作流程管理、操作和监控。
+additionalProperties:
+    key: camunda
+    name: Camunda
+    tags:
+        - WebSite
+    shortDescZh: 灵活的工作流程和流程自动化框架
+    shortDescEn: Flexible framework for workflow and process automation.
+    type: website
+    crossVersionUpdate: false
+    limit: 0
+    recommend: 3
+    website: https://camunda.com/platform-7/
+    github: https://github.com/camunda/camunda-bpm-platform
+    document: https://docs.camunda.org/
